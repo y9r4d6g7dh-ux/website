@@ -8,6 +8,10 @@ It runs entirely on your computer. No account, no database server and no API key
 
 You need [Node.js](https://nodejs.org) 20.9 or newer (the LTS installer is fine).
 
+**Easiest:** double-click `start-windows.bat` (Windows) or `start-mac.command` (macOS). It installs what's needed on first run, starts the app and opens your browser. On macOS, if the file is blocked, right-click it and choose Open.
+
+Or use the terminal:
+
 ### macOS
 
 ```bash
